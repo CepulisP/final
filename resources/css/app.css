@@ -1,0 +1,46 @@
+#green{
+    background-color: #78BE21 !important;
+}
+
+.nav-link{
+    font-weight: bold;
+    color: white !important;
+    font-size: 1.5rem !important;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: white !important;
+    font-size: 2.5rem !important;
+}
+
+.ctnr {
+    font-size: 3.4rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height:20rem;
+    align-items: center;
+}
+
+.bggreen{
+    background-color: #78BE21;
+    color: white;
+}
+
+.zzz{
+    width:50%;
+}
+
+.xfg{
+    height:55%;
+}
+
+.cust{
+    display: flex;
+    flex-direction: row;
+}
+
+.szsz{
+    height:30rem !important;
+}
